@@ -44,6 +44,12 @@ injectGlobal`
     margin: 0;
     font-size: 1.5rem;
     line-height: 2;
+    font-family: 'radnika_next';
+  }
+
+  a {
+    text-decoration: none;
+    color: ${theme.black}
   }
 `;
 
