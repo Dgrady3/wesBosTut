@@ -57,7 +57,7 @@ module.exports = function(originalModule) {
 __webpack_require__.r(__webpack_exports__);
 /* WEBPACK VAR INJECTION */(function(module) {/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/joegrady/Documents/side-projects/Advanced-React/sick-fits/frontend/pages/sell.js";
+var _jsxFileName = "/Users/joegrady/Documents/side-projects/Wes-Boz Advanced-React-Code-Base/sick-fits/frontend/pages/sell.js";
 
 
 var Sell = function Sell(props) {
